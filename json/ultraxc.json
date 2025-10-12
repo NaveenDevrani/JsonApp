@@ -2,15 +2,15 @@
   "apkUrl": "https://play.google.com/store/apps/details?id=com.ultrastream.ultraxcplayer",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.ultrastream.ultraxcplayer",
   "subtitle": "MTY3LjExNC45OC42MC9+c2t5bWVkaWFwbGF5ZXIvc3VidGl0bGVzLXYy",
-  "versionName": "2.0",
-  "versionCode": 11,
+  "versionName": "2.6",
+  "versionCode": 17,
   "updateType": 0,
   "adId": "ca-app-pub-6989746781194349/6194038218",
   "isAllowOtherStoreInstall": "false",
   "allowCheckAppVersion": true,
   "allowCheckUpdate": false,
   "allowAppVersion": [
-   10,11,12,13,14
+   10,11,12,13,14,15,16,17,18,19,20
   ],
   "downloadType": "PlayStore",
   "downloadApk": "",
@@ -45,13 +45,16 @@
   },
   "ads": {
     "adBannerId": "ca-app-pub-6989746781194349/6194038218",
+    "fbBannerId": "3774707012759423_4278410272389092",
     "isAdAllowOtherStoreApp": false,
-    "isTvAd": false
+    "isTvAd": false,
+    "isFbAd": true,
+    "fullAds": true
   },
    "block": {
         "p3": "etrontv,starshare",
         "disableEmulator": true,
         "disableModelName" : "emulator,simulator",
-        "demoP" : "demo"
+        "demoP" : "ibo"
     }
 }
