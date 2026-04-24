@@ -2,15 +2,15 @@
   "apkUrl": "https://play.google.com/store/apps/details?id=com.ultrastream.ultraxcplayer",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.ultrastream.ultraxcplayer",
   "subtitle": "MTY3LjExNC45OC42MC9+c2t5bWVkaWFwbGF5ZXIvc3VidGl0bGVzLXYy",
-  "versionName": "2.6",
-  "versionCode": 17,
+  "versionName": "3.0",
+  "versionCode": 20,
   "updateType": 0,
   "adId": "ca-app-pub-6989746781194349/6194038218",
   "isAllowOtherStoreInstall": "false",
   "allowCheckAppVersion": true,
   "allowCheckUpdate": false,
   "allowAppVersion": [
-   10,11,12,13,14,15,16,17,18,19,20
+  20,21
   ],
   "downloadType": "PlayStore",
   "downloadApk": "",
@@ -52,7 +52,7 @@
     "fullAds": true
   },
    "block": {
-        "p3": "etrontv,starshare",
+        "p3": "etrontv,starshare,xtv,opplex,xciptv,smart4k,hexa4k",
         "disableEmulator": true,
         "disableModelName" : "emulator,simulator",
         "demoP" : "ibo"
